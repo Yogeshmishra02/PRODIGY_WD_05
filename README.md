@@ -47,7 +47,7 @@ This project demonstrates how to create a responsive weather forecast applicatio
 If you have any feedback or suggestions, feel free to connect:
 
 📧 Email: yogeshmishra6000@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/yogesh-mishra-a1a32a29b/)
+💼 [LinkedIn]:(([https://www.linkedin.com/in/yogesh-mishra-a1a32a29b/])
 
 ---
 
