@@ -39,7 +39,7 @@ This project demonstrates how to create a responsive weather forecast applicatio
 ---
 
 📲 Live Demo  
-🔗 Click here to view live: [https://yogeshmishra02.github.io/PRODIGY_WD_05/](https://yogeshmishra02.github.io/PRODIGY_WD_05/)
+🔗 Click here to view live: [https://yogeshmishra02.github.io/PRODIGY_WD_05/](https://yogeshmishra02.github.io/PRODIGY_WD_05/))
 
 ---
 
